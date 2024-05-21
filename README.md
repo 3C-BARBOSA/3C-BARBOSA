@@ -1,17 +1,18 @@
-### Hi there 👋
+### Boas vindas ao meu perfil :blue_heart
 
-<!--
-**3C-BARBOSA/3C-BARBOSA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Marcelo Paludetto
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Você pode entrar em contato comigo :mailbox
+
+00001121729988SP@al.educacao.sp.gov.br
+
+@3C-BARBOSA
+
+![descrição do GIF](link GIF do Tenor)
+
 -->
 ![](link)
